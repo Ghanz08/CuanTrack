@@ -1,0 +1,35 @@
+# Configuration files containing sensitive information
+config/database.php
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE and editor folders
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Dependency directories
+vendor/
+node_modules/
+
+# Log files
+*.log
+logs/
+
+# Cache files
+cache/
+
+# Environment variables
+.env
+.env.local
+
+# Temporary files
+tmp/
+temp/
+
+# Database backups
+*.sql
+*.sqlite
